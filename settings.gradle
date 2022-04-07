@@ -1,0 +1,5 @@
+rootProject.name = 'MailChimp'
+include 'CreateAudiance'
+include 'AddMemeberToAudiance'
+include 'CreateCampaign'
+
